@@ -1,0 +1,8 @@
+numpy>=1.26,<2.3
+pillow>=10.0
+imageio-ffmpeg>=0.5.1
+requests>=2.31
+soundfile>=0.12.1
+faster-whisper==1.1.1
+transformers==4.43.3
+TTS==0.22.0
